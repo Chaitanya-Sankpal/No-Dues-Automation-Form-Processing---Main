@@ -1,0 +1,84 @@
+INSERT INTO students VALUES
+('Omkar Bagade', '23UDCS22297', '12345', 'Hostel-1', 'CSE', 'Third', '9145236589', 'Male', 'OBC', 'no', 1, 1, 'maha12345', 10000, 1, 5000, 60000, 45000.00),
+
+('Audumbar', '23UDCS22370', '12345', 'Hostel-1', 'CSE', 'Third', '9786756550', 'Male', 'General', 'no', 1, 1, 'maha12348', 16000, 1, 5000, 65000, 42010.00),
+
+('Pratik Patil', '23UDCS22001', '12345', 'Hostel-2', 'CSE', 'Second', '9856123450', 'Male', 'OBC', 'no', 1, 0, 'maha12349', 12000, 1, 4000, 55000, 47000.00),
+
+('Sneha Desai', '23UDCS22002', '12345', 'Hostel-2', 'CSE', 'Second', '9867234511', 'Female', 'SC', 'no', 1, 1, 'maha12350', 15000, 1, 4500, 60000, 30000.00),
+
+('Raj Sharma', '23UDCS22003', '12345', 'Hostel-1', 'CSE', 'Third', '9967345623', 'Male', 'ST', 'no', 1, 0, 'maha12351', 18000, 1, 5500, 65000, 50000.00),
+
+('Pooja Jadhav', '23UDCS22004', '12345', 'Hostel-3', 'CSE', 'Third', '9978456723', 'Female', 'NT', 'no', 1, 1, 'maha12352', 17000, 1, 4000, 60000, 40000.00),
+
+('Amit Gaikwad', '23UDCS22005', '12345', 'Hostel-2', 'CSE', 'Second', '9989567823', 'Male', 'OBC', 'no', 1, 0, 'maha12353', 13000, 1, 3500, 55000, 45000.00),
+
+('Neha Pawar', '23UDCS22006', '12345', 'Hostel-1', 'CSE', 'Third', '9990678923', 'Female', 'General', 'no', 1, 1, 'maha12354', 10000, 1, 5000, 65000, 39000.00),
+
+('Sahil More', '23UDCS22007', '12345', 'Hostel-1', 'CSE', 'Third', '9001789023', 'Male', 'OBC', 'no', 1, 0, 'maha12355', 14000, 1, 5000, 60000, 49000.00),
+
+('Shreya Kulkarni', '23UDCS22008', '12345', 'Hostel-2', 'CSE', 'Second', '9012890123', 'Female', 'SC', 'no', 1, 1, 'maha12356', 20000, 1, 4500, 60000, 37000.00),
+
+('Yash Naik', '23UDCS22009', '12345', 'Hostel-1', 'CSE', 'Third', '9023901234', 'Male', 'ST', 'no', 1, 0, 'maha12357', 16000, 1, 3000, 55000, 44000.00),
+
+('Komal Rane', '23UDCS22010', '12345', 'Hostel-3', 'CSE', 'Third', '9034012345', 'Female', 'OBC', 'no', 1, 1, 'maha12358', 19000, 1, 4000, 60000, 42000.00),
+
+('Rohan Shinde', '23UDCS22011', '12345', 'Hostel-2', 'CSE', 'Second', '9045123456', 'Male', 'NT', 'no', 1, 0, 'maha12359', 15000, 1, 3000, 65000, 41000.00),
+
+('Divya Khot', '23UDCS22012', '12345', 'Hostel-1', 'CSE', 'Third', '9056234567', 'Female', 'SC', 'no', 1, 1, 'maha12360', 18000, 1, 4500, 60000, 37000.00),
+
+('Sanket Mane', '23UDCS22013', '12345', 'Hostel-2', 'CSE', 'Second', '9067345678', 'Male', 'OBC', 'no', 1, 0, 'maha12361', 13000, 1, 3000, 55000, 49000.00),
+
+('Vaishnavi Patil', '23UDCS22014', '12345', 'Hostel-3', 'CSE', 'Third', '9078456789', 'Female', 'General', 'no', 1, 1, 'maha12362', 17000, 1, 5000, 65000, 41000.00),
+
+('Saurabh Joshi', '23UDCS22015', '12345', 'Hostel-1', 'CSE', 'Third', '9089567890', 'Male', 'ST', 'no', 1, 0, 'maha12363', 16000, 1, 4500, 60000, 42000.00),
+
+('Kiran Deshmukh', '23UDCS22016', '12345', 'Hostel-2', 'CSE', 'Second', '9090678901', 'Female', 'NT', 'no', 1, 1, 'maha12364', 14000, 1, 3500, 55000, 40000.00),
+
+('Nikhil Dhamale', '23UDCS22017', '12345', 'Hostel-1', 'CSE', 'Third', '9101789012', 'Male', 'OBC', 'no', 1, 0, 'maha12365', 12000, 1, 5000, 65000, 47000.00),
+
+('Rutuja Salunkhe', '23UDCS22018', '12345', 'Hostel-3', 'CSE', 'Third', '9112890123', 'Female', 'SC', 'no', 1, 1, 'maha12366', 20000, 1, 4500, 60000, 38000.00),
+
+('Tanmay Pawar', '23UDCS22019', '12345', 'Hostel-2', 'CSE', 'Second', '9123901234', 'Male', 'General', 'no', 1, 0, 'maha12367', 11000, 1, 4000, 60000, 46000.00),
+
+('Roshni Kapse', '23UDCS22020', '12345', 'Hostel-1', 'CSE', 'Third', '9134012345', 'Female', 'OBC', 'no', 1, 1, 'maha12368', 15000, 1, 3000, 55000, 42000.00),
+
+('Siddharth Bhosale', '23UDCS22021', '12345', 'Hostel-3', 'CSE', 'Third', '9145123456', 'Male', 'ST', 'no', 1, 0, 'maha12369', 19000, 1, 5000, 65000, 45000.00),
+
+('Prajakta More', '23UDCS22022', '12345', 'Hostel-1', 'CSE', 'Second', '9156234567', 'Female', 'NT', 'no', 1, 1, 'maha12370', 13000, 1, 4000, 60000, 40000.00),
+
+('Ajinkya Pawar', '23UDCS22023', '12345', 'Hostel-2', 'CSE', 'Third', '9167345678', 'Male', 'OBC', 'no', 1, 0, 'maha12371', 16000, 1, 4500, 65000, 47000.00),
+
+('Megha Jadhav', '23UDCS22024', '12345', 'Hostel-3', 'CSE', 'Second', '9178456789', 'Female', 'SC', 'no', 1, 1, 'maha12372', 18000, 1, 5000, 60000, 35000.00),
+
+('Sankalp Rane', '23UDCS22025', '12345', 'Hostel-1', 'CSE', 'Third', '9189567890', 'Male', 'General', 'no', 1, 0, 'maha12373', 12000, 1, 4000, 55000, 43000.00),
+
+('Nikita More', '23UDCS22026', '12345', 'Hostel-2', 'CSE', 'Second', '9190678901', 'Female', 'OBC', 'no', 1, 1, 'maha12374', 16000, 1, 4500, 65000, 41000.00),
+
+('Kunal Patil', '23UDCS22027', '12345', 'Hostel-1', 'CSE', 'Third', '9201789012', 'Male', 'ST', 'no', 1, 0, 'maha12375', 20000, 1, 5000, 60000, 39000.00),
+
+('Shraddha Pawar', '23UDCS22028', '12345', 'Hostel-3', 'CSE', 'Third', '9212890123', 'Female', 'NT', 'no', 1, 1, 'maha12376', 15000, 1, 3500, 60000, 42000.00),
+
+('Swapnil Dhotre', '23UDCS22029', '12345', 'Hostel-1', 'CSE', 'Second', '9223901234', 'Male', 'SC', 'no', 1, 0, 'maha12377', 17000, 1, 3000, 55000, 45000.00),
+
+('Jyoti Sawant', '23UDCS22030', '12345', 'Hostel-2', 'CSE', 'Third', '9234012345', 'Female', 'OBC', 'no', 1, 1, 'maha12378', 14000, 1, 5000, 65000, 47000.00),
+
+('Harshal Koli', '23UDCS22031', '12345', 'Hostel-3', 'CSE', 'Second', '9245123456', 'Male', 'ST', 'no', 1, 0, 'maha12379', 13000, 1, 4000, 60000, 43000.00),
+
+('Gauri Patil', '23UDCS22032', '12345', 'Hostel-1', 'CSE', 'Third', '9256234567', 'Female', 'General', 'no', 1, 1, 'maha12380', 11000, 1, 5000, 60000, 40000.00),
+
+('Vishal Kumbhar', '23UDCS22033', '12345', 'Hostel-2', 'CSE', 'Second', '9267345678', 'Male', 'OBC', 'no', 1, 0, 'maha12381', 16000, 1, 4000, 65000, 42000.00),
+
+('Sayali Deshmukh', '23UDCS22034', '12345', 'Hostel-3', 'CSE', 'Third', '9278456789', 'Female', 'SC', 'no', 1, 1, 'maha12382', 17000, 1, 5000, 60000, 39000.00),
+
+('Ritik Shinde', '23UDCS22035', '12345', 'Hostel-1', 'CSE', 'Third', '9289567890', 'Male', 'ST', 'no', 1, 0, 'maha12383', 14000, 1, 4500, 55000, 44000.00),
+
+('Smita Gawade', '23UDCS22036', '12345', 'Hostel-2', 'CSE', 'Second', '9290678901', 'Female', 'OBC', 'no', 1, 1, 'maha12384', 13000, 1, 3500, 60000, 41000.00),
+
+('Tejas Desai', '23UDCS22037', '12345', 'Hostel-3', 'CSE', 'Third', '9301789012', 'Male', 'General', 'no', 1, 0, 'maha12385', 12000, 1, 5000, 65000, 46000.00),
+
+('Manasi Kharat', '23UDCS22038', '12345', 'Hostel-1', 'CSE', 'Third', '9312890123', 'Female', 'NT', 'no', 1, 1, 'maha12386', 20000, 1, 4000, 60000, 39000.00),
+
+('Ravindra Pawar', '23UDCS22039', '12345', 'Hostel-2', 'CSE', 'Second', '9323901234', 'Male', 'SC', 'no', 1, 0, 'maha12387', 16000, 1, 3000, 55000, 48000.00),
+
+('Asmita Lokhande', '23UDCS22040', '12345', 'Hostel-3', 'CSE', 'Third', '9334012345', 'Female', 'OBC', 'no', 1, 1, 'maha12388', 18000, 1, 4500, 60000, 41000.00);
